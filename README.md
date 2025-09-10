@@ -1,26 +1,27 @@
-☕ Mocha Metrices Dashboard
+# ☕ Mocha Metrices Dashboard  
 
-Project Title :- Mocha Metrices Dashboard – A Power BI solution to analyze café sales performance and customer purchase patterns.
+## Project Title  
+**Mocha Metrices Dashboard – A Power BI solution to analyze café sales performance and customer purchase patterns.**  
 
-Description :-
-The Mocha Metrices Dashboard is a data-driven café analytics solution designed to provide insights into sales, orders, and product performance. It highlights trends across store locations, weekdays vs. weekends, product categories, and time of day. This dashboard enables café managers and business owners to track KPIs, monitor store health, and make strategic decisions to maximize revenue.
+## Description  
+The Mocha Metrices Dashboard is a data-driven café analytics solution designed to provide insights into sales, orders, and product performance. It highlights trends across store locations, weekdays vs. weekends, product categories, and time of day. This dashboard enables café managers and business owners to track KPIs, monitor store health, and make strategic decisions to maximize revenue.  
 
-Tech Stack :-
+## Tech Stack  
+The dashboard was built using the following tools and technologies:  
 
-The dashboard was built using the following tools and technologies:
+- 📊 **Power BI Desktop** – Main platform for interactive dashboard design and visualization.  
+- 🌐 **Power BI Service** – Published and shared interactive dashboards for online access, collaboration, and real-time usage.  
+- 📂 **Power Query** – Data cleaning, transformation, and shaping before loading into the model.  
+- 🧠 **DAX (Data Analysis Expressions)** – Custom calculations and measures such as Total Sales, Total Orders, Sales by Day, and KPIs.  
+- 📝 **Data Modeling** – Created relationships among sales, product, and time fields to enable cross-filtering and aggregations.  
+- 📑 **Microsoft Excel** – Used for initial dataset storage and preparation before importing into Power BI.  
+- 📁 **File Formats** – .pbix (Power BI source file), .xlsx (Excel dataset), and .png (dashboard previews).  
 
-📊 Power BI Desktop – Main platform for interactive dashboard design and visualization.
-🌐 Power BI Service – Published and shared interactive dashboards for online access, collaboration, and real-time usage.
-📂 Power Query – Data cleaning, transformation, and shaping before loading into the model.
-🧠 DAX (Data Analysis Expressions) – Custom calculations and measures such as Total Sales, Total Orders, Sales by Day, and KPIs.
-📝 Data Modeling – Created relationships among sales, product, and time fields to enable cross-filtering and aggregations.
-📑 Microsoft Excel – Used for initial dataset storage and preparation before importing into Power BI.
-📁 File Formats – .pbix (Power BI source file), .xlsx (Excel dataset), and .png (dashboard previews).
+## Data Source  
+Café sales dataset maintained in Excel. The dataset contains details such as Transaction Date, Store Location, Product Category, Product Type, Quantity Sold, and Revenue.  
 
-Data Source :-
-Café sales dataset maintained in Excel. The dataset contains details such as Transaction Date, Store Location, Product Category, Product Type, Quantity Sold, and Revenue.
 
-Features
+# Features
 
 🔹 Business Problem
 For cafés, maximizing sales and understanding customer purchase patterns is critical for profitability and inventory management. Identifying sales by product type, peak sales hours, and store performance is essential to improve business strategies.
